@@ -27,14 +27,12 @@ The primary goal was to gain a practical, hands-on understanding of how deepfake
 ## Technologies Used
 
 * **HeyGen:** Online AI video generation platform used for creating the deepfake avatar.
-* **Video Recording Equipment/Software:** Standard tools (e.g., smartphone camera, webcam, screen recorder) used to capture the initial input video.
-* **Video Tutorial:** The specific instructional guide followed for the deepfake creation process. *(Optional: Add a link or reference to the tutorial if possible/appropriate).*
 
 ## Implementation Steps
 
 1.  **Tutorial Identification:** Selected and reviewed the video tutorial outlining the steps for deepfake generation using HeyGen.
-2.  **Input Video Recording:** Recorded a short video clip (e.g., speaking to the camera) to serve as the source material for the deepfake.
-3.  **Platform Access:** Accessed the HeyGen platform (potentially involving signup/login).
+2.  **Platform Access:** Accessed the HeyGen platform (potentially involving signup/login).
+3.  **Input Video Recording:** Record a short video clip (e.g., speaking to the camera) to serve as the source material for the deepfake.
 4.  **Video Upload:** Uploaded the recorded source video to the HeyGen platform.
 5.  **Avatar Generation:** Followed the platform's workflow (specifically using the "instant avatar" feature) to process the uploaded video and generate the deepfake avatar/video.
 6.  **Output Review & Analysis:** Examined the generated deepfake video, noting aspects like realism, lip-sync accuracy, artifacts, and overall effectiveness, comparing it to the original input.
